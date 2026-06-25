@@ -422,7 +422,4 @@ classDiagram
 
 ---
 
-**Author's note:** This project was built to comprehensively demonstrate
-Core Java fundamentals — OOP design, the Collections Framework, file
-I/O, and exception handling — in a single, runnable, well-organized
-console application suitable for academic submission and code review.
+**Author's Note:** This project was developed as part of Task 4 of the Java Programming Internship at VaultOfCode. It demonstrates core Java fundamentals — including object-oriented design, the Collections Framework, file handling, and exception management — through a single, fully functional, and well-structured console application.
