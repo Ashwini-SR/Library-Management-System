@@ -1,0 +1,10 @@
+B001|The Pragmatic Programmer|Andrew Hunt|9780201616224|Computer Science|Addison-Wesley|5|2
+B002|Effective Java|Joshua Bloch|9780134685991|Computer Science|Addison-Wesley|4|4
+B003|Clean Code|Robert C. Martin|9780132350884|Computer Science|Prentice Hall|3|3
+B004|Introduction to Algorithms|Thomas H. Cormen|9780262033848|Computer Science|MIT Press|2|2
+B005|The Great Gatsby|F. Scott Fitzgerald|9780743273565|Fiction|Scribner|4|4
+B007|A Brief History of Time|Stephen Hawking|9780553380163|Science|Bantam|2|2
+B008|Sapiens|Yuval Noah Harari|9780062316097|History|Harper|3|3
+B009|Operating System Concepts|Abraham Silberschatz|9781118063330|Computer Science|Wiley|2|0
+B010|Database System Concepts|Abraham Silberschatz|9780073523323|Computer Science|McGraw-Hill|3|3
+B011|The Psychology of Money|Morgan Housel|9780857197689|Finance|Harriman House|4|4

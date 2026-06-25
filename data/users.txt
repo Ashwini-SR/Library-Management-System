@@ -1,0 +1,7 @@
+U001|System Administrator|admin|admin123|ADMIN
+U002|Rahul Sharma|rahul|student123|STUDENT
+U003|Priya Singh|priya|student123|STUDENT
+U004|Rashmi|Rashmi|Student456|STUDENT
+U005|Ashwini|Ashwini|Student678|STUDENT
+U006|Abhinav|Abhinav|Student457|STUDENT
+U007|Krishna|Krishna|Student123|STUDENT
